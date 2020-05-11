@@ -1,4 +1,4 @@
-board = ["x ", "o", "x", "o", "x", " x", "o", "x ", "o"]
+board = ["x ", "x", "x", "x", "x", " x", "x", "x ", "x"]
 def display_board(board)
 end
 
